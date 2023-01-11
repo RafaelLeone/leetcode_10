@@ -31,6 +31,8 @@ E o javascript com
 8. [29-divide-two-integers.js](https://leetcode.com/problems/divide-two-integers/)
 
 9. [30_substring_with_concatenation_of_all_words.py](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
-10. js hard
+10. [41-first-missing-positive.js](https://leetcode.com/problems/first-missing-positive/)
 
-Obs.: Esses são os links para os exercícios do site. Para acesso às resoluções desse repositório, clique nos arquivos com nome correspondente.
+Obs.: Esses são os links para os exercícios do site. Para acesso às resoluções desse repositório, clique nos arquivos com nome correspondente.  
+Os exercícios 20 e 32 foram pulados por envolverem uma complexidade maior com mais casos do que os apresentados no site.  
+O 37 foi pulado por demandar muito tempo para resolução.
