@@ -23,7 +23,7 @@ E o javascript com
 2. [09-palindrome-number.js](https://leetcode.com/problems/palindrome-number/)
 3. [13_roman_to_integer.py](https://leetcode.com/problems/roman-to-integer/)
 4. [14-longest-common-prefix.js](https://leetcode.com/problems/longest-common-prefix/)
-5. python easy
+5. [20_valid_parentheses.py](https://leetcode.com/problems/valid-parentheses/)
 6. js easy
 
 7. python medium
