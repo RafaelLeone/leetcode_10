@@ -25,7 +25,7 @@ E o javascript com
 4. [14-longest-common-prefix.js](https://leetcode.com/problems/longest-common-prefix/)
 5. [21_merge_two_sorted_lists.py](https://leetcode.com/problems/merge-two-sorted-lists/)
 ~~[20_valid_parentheses.py](https://leetcode.com/problems/valid-parentheses/)~~
-6. js easy
+6. [26-remove-duplicates-from-sorted-array.js](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 7. python medium
 8. js medium
