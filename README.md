@@ -27,7 +27,7 @@ E o javascript com
 ~~[20_valid_parentheses.py](https://leetcode.com/problems/valid-parentheses/)~~
 6. [26-remove-duplicates-from-sorted-array.js](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-7. python medium
+7. [28_find_the_index_of_the_first_occurrence_in_a_string.py](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 8. js medium
 
 9. python hard
