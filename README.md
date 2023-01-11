@@ -30,7 +30,7 @@ E o javascript com
 7. [28_find_the_index_of_the_first_occurrence_in_a_string.py](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 8. [29-divide-two-integers.js](https://leetcode.com/problems/divide-two-integers/)
 
-9. python hard
+9. [30_substring_with_concatenation_of_all_words.py](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 10. js hard
 
 Obs.: Esses são os links para os exercícios do site. Para acesso às resoluções desse repositório, clique nos arquivos com nome correspondente.
