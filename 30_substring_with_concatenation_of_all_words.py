@@ -34,7 +34,8 @@ for agulha in agulhas:
                 else:
                     contador_de_posicoes_iguais += 1
             if contador_de_posicoes_iguais == TAMANHO_AGULHA:
-                posicoes.append(posicao)
+                if posicao not in posicoes:
+                    posicoes.append(posicao)
         except:
             break
 

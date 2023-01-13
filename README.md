@@ -38,3 +38,4 @@ E o javascript com
 Obs.: Esses são os links para os exercícios do site. Para acesso às resoluções desse repositório, clique nos arquivos com nome correspondente.  
 Os exercícios 20 e 32 foram pulados por envolverem uma complexidade maior com mais casos do que os apresentados no site.  
 O 37 foi pulado por demandar muito tempo para resolução.
+Somente 1, 9, 13 e 28 dessa lista passaram no site, sendo o 30 e 41 dando errado por timeout. Mas todos rodam com comandos 'python' ou 'node' no terminal.
