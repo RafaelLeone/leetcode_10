@@ -1,5 +1,7 @@
 # Desafio dos 10 exercícios
 
+Para rodar no site do leetcode é necessário trocar o nome das variáveis para as correspondentes no site, e os 'print()' e 'console.log()' para 'return.'
+
 ### Desafio:
 Resolver 10 exercícios dessa [lista](https://leetcode.com/problemset/all/?sorting=W3t9XQ%3D%3D).
 
