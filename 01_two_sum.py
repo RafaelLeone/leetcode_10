@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/two-sum/
 
 # Input: 
-numeros_dados = [2,7,11,15]
+numeros_dados = [2, 7, 9]
 soma_esperada = 9
 # Output: [0,1]
 # Explicação: Porque numeros[0] + numeros[1] == 9, retorna-se [0, 1].
@@ -20,6 +20,11 @@ for posicao, numero_dado in enumerate(numeros_dados):
             if len(dicionario_de_numeros[numero_que_precisa]) > 1:
                 dicionario_de_numeros[numero_que_precisa].pop(0) #trata casos dos números que aparecem/repetem em mais de uma posição.
             resultado.append(dicionario_de_numeros[numero_dado][0])
+            if resultado[0] == resultado[1]:
+                resultado.pop(0)
+                continue
+            if len(resultado) > 2:
+                resultado.pop(0)
             break
 
 print(resultado)
