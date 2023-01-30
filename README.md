@@ -21,7 +21,7 @@ E o javascript com
 ```node nome-do-arquivo.js```
 
 ### Link dos exercícios:
-1. [01_two_sum.py](https://leetcode.com/problems/two-sum/)
+1. [01_two_sum.py](https://leetcode.com/problems/two-sum/)(Passando no site)
 2. [09-palindrome-number.js](https://leetcode.com/problems/palindrome-number/)
 3. [13_roman_to_integer.py](https://leetcode.com/problems/roman-to-integer/)
 4. [14-longest-common-prefix.js](https://leetcode.com/problems/longest-common-prefix/)
