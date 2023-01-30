@@ -8,7 +8,7 @@ target = 9
 
 from typing import List
 
-#Copiar a partir daqui dentro do Class Soltuion no site:
+#Copiar a partir daqui dentro do Class Solution no site:
 def twoSum(self, nums: List[int], target: int) -> List[int]:
     dicionario_de_numeros = {}
     resultado = []
