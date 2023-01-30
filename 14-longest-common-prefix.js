@@ -1,28 +1,37 @@
 // https://leetcode.com/problems/longest-common-prefix/
 
 // Input: 
-const strings = ["flower","flow","flight"]
+const strs = ["flower", "flight"]
 // Output: "fl"
 
-let dicionarioDeLetras = {}
-let maiorPrefixoComum = []
+// Copiar a partir daqui para o site:
+/**
+ * @param {string[]} strs
+ * @return {string}
+ */
+var longestCommonPrefix = function(strs) {
+    let maiorPrefixoComum = []
 
-for (let string of strings) {
-    for (letra of string) {
-        if (!(letra in dicionarioDeLetras)) {
-            dicionarioDeLetras[letra] = []
-        }
-            dicionarioDeLetras[letra].push(string.indexOf(letra))
-    }
-}
-
-for (letra in dicionarioDeLetras) {
-    if (dicionarioDeLetras[letra].length === strings.length) {
+    for (letra of strs[0]) {
         maiorPrefixoComum.push(letra)
     }
-    else {
-        break
-    }
-}
 
-console.log(maiorPrefixoComum.join(''))
+    if (strs.length == 0) {
+        return maiorPrefixoComum
+    }
+
+    strs.splice(0, 1)
+
+    for (palavra of strs) {
+        for (index in maiorPrefixoComum) {
+            if (palavra[index] == maiorPrefixoComum[index]) {
+                continue
+            }
+            maiorPrefixoComum.splice(index, maiorPrefixoComum.length)
+        }
+    }
+
+    return maiorPrefixoComum.join('')
+};
+// Não copiar para o site:
+console.log(longestCommonPrefix(strs))
