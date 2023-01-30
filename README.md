@@ -23,7 +23,7 @@ E o javascript com
 ### Link dos exercícios:
 1. [01_two_sum.py](https://leetcode.com/problems/two-sum/)(Passando no site)
 2. [09-palindrome-number.js](https://leetcode.com/problems/palindrome-number/)(Passando no site)
-3. [13_roman_to_integer.py](https://leetcode.com/problems/roman-to-integer/)
+3. [13_roman_to_integer.py](https://leetcode.com/problems/roman-to-integer/)(Passando no site)
 4. [14-longest-common-prefix.js](https://leetcode.com/problems/longest-common-prefix/)
 5. [21_merge_two_sorted_lists.py](https://leetcode.com/problems/merge-two-sorted-lists/)
 ~~[20_valid_parentheses.py](https://leetcode.com/problems/valid-parentheses/)~~
