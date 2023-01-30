@@ -4,7 +4,7 @@
 const strs = ["flower", "flight"]
 // Output: "fl"
 
-// Copiar a partir daqui para o site:
+// Copiar a partir daqui para o siteem JavaScript:
 /**
  * @param {string[]} strs
  * @return {string}
