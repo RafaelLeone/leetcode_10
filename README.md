@@ -27,7 +27,7 @@ Ou copie parte do código para o site (atente-se aos comentários para ver qual 
 8. [29-divide-two-integers.js](https://leetcode.com/problems/divide-two-integers/)(Passando no site)
 
 ### Hard:  
-9. [30_substring_with_concatenation_of_all_words.py](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+9. [04-median-of-two-sorted-arrays.js](https://leetcode.com/problems/median-of-two-sorted-arrays/)(Passando no site)
 10. [41-first-missing-positive.js](https://leetcode.com/problems/first-missing-positive/)
 
 Obs.: Esses são os links para os exercícios do site. Para acesso às resoluções, clique nos arquivos com nome correspondente acima do ReadMe.  
