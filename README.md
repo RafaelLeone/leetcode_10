@@ -28,6 +28,6 @@ Ou copie parte do código para o site (atente-se aos comentários para ver qual 
 
 ### Hard:  
 9. [04-median-of-two-sorted-arrays.js](https://leetcode.com/problems/median-of-two-sorted-arrays/)(Passando no site)
-10. [41-first-missing-positive.js](https://leetcode.com/problems/first-missing-positive/)
+10. [60_permutation_sequence.py](https://leetcode.com/problems/permutation-sequence/)(Passando no site)
 
 Obs.: Esses são os links para os exercícios do site. Para acesso às resoluções, clique nos arquivos com nome correspondente acima do ReadMe.  
